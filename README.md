@@ -4,6 +4,7 @@
 - 📖 Opiskelen tällä hetkellä **React, C**
 
 - 📫 Sähköposti **ukkoryynanen@gmail.com**
+- 💼 LinkedIn [Ukko Ryynänen](https://www.linkedin.com/in/ukko-ryyn%C3%A4nen-9bb3a12b8/)
 
 <h3 align="left">Osaamani kielet ja työkalut:</h3>
 <p align="left"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a><a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a>
