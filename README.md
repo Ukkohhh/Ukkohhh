@@ -1,7 +1,6 @@
 <h1 align="center">Hei! Olen Ukko</h1>
 <h3 align="center">Opiskelen ohjelmistokehittäjäksi Vantaa Varialla</h3>
 
-- 📖 Opiskelen tällä hetkellä **React, C**
 
 - 📫 Sähköposti **ukkoryynanen@gmail.com**
 - 💼 LinkedIn [Ukko Ryynänen](https://www.linkedin.com/in/ukko-ryyn%C3%A4nen-9bb3a12b8/)
